@@ -1,10 +1,16 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
+redirect_from:
+  - /Publications
 ---
 
-This is the front page.
+{% include base_path %}
+
+Education
+======
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Jekyll, GitHub University, 2014
+* B.S. in GitHub, GitHub University, 2012
