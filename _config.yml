@@ -1,7 +1,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Lijun Zhang"
+title                    : "Lijun Zhang / Student"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -15,7 +15,7 @@ repository               : "ljz441/ljz441.github.io"
 author:
   # Biographic information
   avatar           : "author.png"
-  name             : "Lijun Zhang / Student"
+  name             : "Lijun Zhang"
   pronouns         : # example: "she/her"  
   bio              : "Scientific Research Worker"
   location         : "China"
