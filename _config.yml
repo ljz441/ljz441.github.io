@@ -1,7 +1,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Lijun Zhang / Student"
+title                    : "Lijun Zhang             "
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
