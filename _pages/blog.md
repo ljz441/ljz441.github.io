@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Blog Post"
 permalink: /blog/
 author_profile: true
