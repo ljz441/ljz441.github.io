@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Other Outputs"
 permalink: /other/
 author_profile: true
