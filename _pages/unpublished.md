@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: "Under Review"
 permalink: /unpublished/
 author_profile: true
