@@ -8,6 +8,8 @@ redirect_from:
 
 {% include base_path %}
 
-- [May 2024 resume](https://github.com/ljz441/ljz441.github.io/tree/master/files/2024-5-CV.pdf)
-
-- Next Future.
+<div>
+<a href="https://github.com/ljz441/ljz441.github.io/tree/master/files/2024-5-CV.pdf" download>
+May 2024 resume
+</a>
+</div>
