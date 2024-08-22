@@ -8,4 +8,6 @@ redirect_from:
 
 {% include base_path %}
 
-To be updated.
+1. [Journal] An Efficient Optimization of the Monte Carlo Tree Search Algorithm for Amazons
+   
+   1. 
